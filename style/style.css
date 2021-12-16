@@ -1,0 +1,96 @@
+@font-face {
+    font-family:"Merri Italic" ;
+    src: url(../font/MerriweatherSans-Italic-VariableFont_wght.ttf);
+}
+@font-face {
+    font-family:"Merri" ;
+    src: url(../font/MerriweatherSans-VariableFont_wght.ttf);
+}
+
+body{
+    font-family:"Merri";
+    font-size: 18px;
+    font-weight: bold;
+    color: white;
+    background-image: url(../img/julianretouche.png);
+    background-repeat:no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+header {
+    background-color: rgba(0, 0, 0, 0.586);
+    border-radius: 50px 50px 50px 50px;
+    width: 1000px;
+    margin: auto; 
+}
+h1{
+    text-align: center;
+}
+a {
+    text-decoration: none;
+    color: white;
+}
+a:hover{
+    color: rgb(170, 170, 170);
+}
+a:visited {
+    color: rgb(255, 255, 255);
+}
+a:visited:hover {
+    color: rgb(170, 170, 170);
+}
+.important:visited {
+    color: rgb(167, 17, 17);
+}
+.important {
+    color: rgb(167, 17, 17);
+}
+#Menu {
+    text-align: center;
+}
+ul{
+    list-style: none;
+}
+table {
+    border-collapse: collapse;
+    color: white; 
+}
+table, td ,th{
+    border: 3px solid rgba(255, 255, 255, 0.021);
+    text-align: left;
+}
+.mois{
+    letter-spacing: 3px;
+    width: 400px;
+    list-style: none;
+    position: fixed;
+    text-align: left ;
+    height:auto;
+    background-color: rgba(0, 0, 0, 0.586);
+    border-radius: 50px 50px 50px 50px;
+}
+.body{
+    background-color: rgba(0, 0, 0, 0.586);
+    border-radius: 50px 50px 50px 50px;
+    text-align: center; 
+    margin: 0 450px 0 ;
+}
+table {
+    margin: auto;
+    text-align: center;
+}
+td{
+    height: 50px;
+}
+.para {
+    letter-spacing: 2px;
+}
+.photo {
+    height: 300px;
+    width: 500px;
+}
+#parcours {
+    height: 600px;
+    width: 500px;
+}
+

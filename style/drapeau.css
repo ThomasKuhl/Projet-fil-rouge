@@ -1,0 +1,254 @@
+.fr{
+    background-image:url(../img/français.png) ;
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+    
+    
+}
+.bel{
+    background-image: url(../img/belges.png);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+    
+    
+}
+.it {
+    background-image: url(../img/italie.png);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+    
+}
+.aus {
+    background-image: url(../img/australie.png);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+    
+}
+.sui {
+    background-image: url(../img/suisse.png);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+}
+.lux {
+    background-image: url(../img/lux.png);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+}
+.usa {
+    background-image: url(../img/usa.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+}
+.ger {
+    background-image: url(../img/ger.png);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+}
+.gbr {
+    background-image: url(../img/gbr.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+}
+.ned {
+    background-image: url(../img/ned.png);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+}
+.esp {
+    background-image: url(../img/esp.png);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+}
+.cze {
+    background-image: url(../img/cze.png);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+    
+}
+.tpe {
+    background-image: url(../img/tpe.png);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+}
+.aut {
+    background-image: url(../img/aut.png);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+}
+.ukr {
+    background-image: url(../img/ukr.png);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+}
+.slo {
+    background-image: url(../img/slo.png);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+}
+.jpn{
+    background-image: url(../img/jap.png);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+}
+.kaz {
+    background-image: url(../img/kaz.png);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+}
+
+.col {
+    background-image: url(../img/col.png);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+}
+.den {
+    background-image: url(../img/dan.png);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+}
+.irl {
+    background-image: url(../img/irl.png);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+}
+.por {
+    background-image: url(../img/por.png);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+}
+.nzl {
+    background-image: url(../img/nzl.png);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+}
+.rus {
+    background-image: url(../img/rus.png);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+}
+.can {
+    background-image: url(../img/can.png);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+}
+.eri {
+    background-image: url(../img/eri.png);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+}
+.rsa {
+    background-image: url(../img/rsa.png);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+}
+.pol {
+    background-image: url(../img/pol.png);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+}
+.svk {
+    background-image: url(../img/slv.png);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+}
+.ecu {
+    background-image: url(../img/ecu.png);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+}
+.est {
+    background-image: url(../img/est.png);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+}
+.ltn {
+    background-image: url(../img/ltn.png);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+}
+.crc {
+    background-image: url(../img/crc.png);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+}
+.swe {
+    background-image: url(../img/swe.png);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+}
+.nor {
+    background-image: url(../img/nor.png);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+}
+.isr {
+    background-image: url(../img/isr.png);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+}
+.lat {
+    background-image: url(../img/lat.png);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+}
+.eth {
+    background-image: url(../img/eth.png);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+}
+.arg {
+    background-image: url(../img/arg.png);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+}
+.blr {
+    background-image: url(../img/blr.png);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+}
+.uae {
+    background-image: url(../img/uaed.png);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+}
